@@ -1,15 +1,13 @@
 body{
-    background-color:pink;
+    background-color:rgb(245, 193, 133);
 }
-@media{
-    max-width: 100%;
-    min-height: 33%;
 h1{
     font-size: 100px;
     font-weight: 700px;
-    color: rgb(252, 9, 41);
+    color: rgba(252, 98, 9, 0.979);
     text-align: center;
     font-family: monospace;
+    font-weight: 700;
 }
 img{
     width:30%;
@@ -27,5 +25,6 @@ p{
     text-decoration: teal;
     font-size:33px ;
     font-family: monospace;
+    font-weight: 600;
 }
-}
+
