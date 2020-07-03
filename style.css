@@ -1,3 +1,6 @@
+@media{
+    max-width: 800px;
+    min-height: 100px;
 body{
     background-color:pink;
 }
@@ -24,4 +27,5 @@ p{
     text-decoration: teal;
     font-size:33px ;
     font-family: monospace;
+}
 }
