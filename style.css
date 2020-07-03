@@ -1,8 +1,9 @@
-@media{
-    max-width: 800px;
-    min-height: 100px;
 body{
     background-color:pink;
+}
+@media{
+    max-width: 100%;
+    min-height: 33%;
 }
 h1{
     font-size: 100px;
@@ -27,5 +28,4 @@ p{
     text-decoration: teal;
     font-size:33px ;
     font-family: monospace;
-}
 }
